@@ -1,12 +1,18 @@
 <h1 align="center" id="topo">Um guia para te ajudar a conseguir sua primeira vaga</h1>
 <p align="center">Esse guia não é uma estrada definitiva, cada caminhada de cada pessoa é diferente .  </p>
 <p align="center">Esse guia é uma caixa de ferramentas e dicas que eu queria ter acesso quando estava na busca, espero que te ajude !   </p>
-<p align="center">Ficou parecendo papo de coach, mas prometo qeu faz sentido hahah, questione cada tópico em SEU CONTEXTO de vida.</p>
+<p align="center">Ficou parecendo papo de coach, mas prometo que não é. Questione cada tópico em SEU CONTEXTO de vida.</p>
 <hr/>
 
 
-## 1 - Em qual momento eu estou ? 
-* Saiba identificar em qual momento de estudos você se encontra. A pergunta "será que já estou pronto para me candidatar ??? " é uma resposta que só vc pode responder.
+## 🥚🐣🐥 - Em qual momento eu estou ? 
+
+|  🥚 |🐣   |🐥 |
+| ------------ | ------------ | ------------
+| Não sei nada | Já comecei a estudar | Já estudo e estou em busca, só falta a vaguinha
+
+
+* Saiba identificar em qual momento de estudos você se encontra. A pergunta "será que já estou pronto para me candidatar ??? " é algo que só vc pode responder.
 * Obviamente queremos sempre estar na nossa melhor versão, estar 100% prontos para todos os desafios. Mas achar uma vaga não é sobre se encaixar em TODOS os requisitos de TODAS as vagas.
 * Foque no principal pra sua stack, PESQUISE o que as vagas na sua stack pra um junior/estágio estão pedindo e tente achar um comum entre elas.
 * Agora não é o momento de ser tão seletivo pras suas vagas ( o que vier é lucro ), ao contrário do que o Primo Rico e outros coachs te prometeram, são raros os casos de um iniciante ganhar 3k. Reapare que eu disse que "são raros" não que não existem. Mas seu foco agora não deve ser ficar rico de imediato, mas sim conseguir experiência para alçar voos maiores ( e que pagam melhor ). 
@@ -16,7 +22,16 @@
 
 * Lembre-se, se você se candidatou pra 30 vagas, recebeu 29 nãos e 1 sim, VOCÊ ESTÁ CONTRATADO :tada:
 
-## 2- Não pare de estudar em nenhum momento
+
+##  🥚 - Por onde começar a estudar ?
+
+* Estudar tech é algo que tem um começo, mas não tem fim. Você pode estudar pro resto da sua carreira . 
+
+| Roadmaps  |  Cursos Gratuitos |
+| ------------ | ------------ |
+| [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |
+
+## 🥚🐣🐥 - Não pare de estudar em nenhum momento
 * Não existe isso de " agora ja estudei tudo, to sabendo de tudo e vou me candidatar ", esse momento não vai chegar.
 * Continue estudando tecnologia todos os dias de sua vida, mesmo empregado /se candidatando/ aposentado ( aposentado nao precisa, mas é gostoso saber e aprender ). 
 
