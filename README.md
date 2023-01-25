@@ -26,16 +26,17 @@
 ##  🥚 - Por onde começar a estudar ?
 
 * Estudar tech é algo que tem um começo, mas não tem fim. Você pode estudar pro resto da sua carreira . 
+* Converse com outros devs, tire duvidas tecnicas
 
-| Roadmaps  |  Cursos Gratuitos |
-| ------------ | ------------ |
-| [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |
+| Roadmaps  |  Cursos Gratuitos | Comunidades Discord
+| ------------ | ------------ | ------------
+| [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |   [ CollabCode ](https://discord.gg/EFdpWdnE) - [ Codelândia ](https://discord.gg/wNCWTVuxyz) - [ TechPeopleBR ](https://discord.gg/E2smEqcF) - [ Ballerini ](https://discord.gg/ballerini) - [ He4rt Developers ](https://discord.gg/2bRtvBQ2) - [ Montano ](https://discord.gg/7xkpCMjH)
 
 ## 🥚🐣🐥 - Não pare de estudar em nenhum momento
 * Não existe isso de " agora ja estudei tudo, to sabendo de tudo e vou me candidatar ", esse momento não vai chegar.
 * Continue estudando tecnologia todos os dias de sua vida, mesmo empregado /se candidatando/ aposentado ( aposentado nao precisa, mas é gostoso saber e aprender ). 
 
-## 3 - Saiba se cobrar ( não se compare com ninguém )
+## 🐣🐥 - Saiba se cobrar ( não se compare com ninguém )
 * Eu tive o privilégio de começar a estudar tech bem cedo, na casa dos meus pais, não tinha ninguém que dependia de mim, sem filhos e família para sustentar, sem conta pra pagar. Eu literalmente só estudava o dia todo. Faculdade e depois varava a noite/madrugada fazendo projetos de estudos e freelas para aprender. 
 * Mas entenda que CADA UM TEM SEU PERFIL e disponibilidade para aprender. Você pode ter diversas responsabilidades que um menino de 17 anos ( em tese ) não tem, mas saiba olhar para onde você está e quer chegar. Saiba também se cobrar perante ao seu contexto de vida. Não se cobre estudar 10h por dia sendo que você tem outras responsabilidades, organize seus estudos e tenha constância que você vai cheagar onde quiser !
 * Não se compare com nenhuma pessoa, cada um sabe da sua vida e esforço. Mas o importante é estudar com constancia, nem que essa constancia seja 1 hora no dia.  
