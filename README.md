@@ -24,32 +24,30 @@
 
 
 ##  🥚 - Por onde começar a estudar ?
-
-* Estudar tech é algo que tem um começo, mas não tem fim. Você pode estudar pro resto da sua carreira . 
-* Converse com outros devs, tire duvidas tecnicas
+* Devo pagar um curso logo de cara ? Na minha opnião, não. Têm muito conteúdo bom e gratuíto na web, faça vários cursos antes de pagar um de fato, e se for pagar pesquise MUITO antes, feedback de alunos reais e o que esse curso tem a te agregar que você não conseguiria gratuitamente .
+* Converse com outros devs, tire dúvidas técnicas, fale e faça conexōes !
+* [ Discord ](https://discord.com/) é a melhor ferramenta pra trocar ideias com outros devs diretamente, se não conhece, pesquise [ como utiliza-lo ](https://discord.com/)  e se conecte com milhares de devs para tirar suas dúvidas e bater um papo :
 
 | Roadmaps  |  Cursos Gratuitos | Comunidades Discord
 | ------------ | ------------ | ------------
 | [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |   [ CollabCode ](https://discord.gg/EFdpWdnE) - [ Codelândia ](https://discord.gg/wNCWTVuxyz) - [ TechPeopleBR ](https://discord.gg/E2smEqcF) - [ Ballerini ](https://discord.gg/ballerini) - [ He4rt Developers ](https://discord.gg/2bRtvBQ2) - [ Montano ](https://discord.gg/7xkpCMjH)
 
 ## 🥚🐣🐥 - Não pare de estudar em nenhum momento
+* Estudar tech é algo que tem um começo, mas não tem fim. Você pode estudar pro resto da sua carreira . 
 * Não existe isso de " agora ja estudei tudo, to sabendo de tudo e vou me candidatar ", esse momento não vai chegar.
-* Continue estudando tecnologia todos os dias de sua vida, mesmo empregado /se candidatando/ aposentado ( aposentado nao precisa, mas é gostoso saber e aprender ). 
+* Continue estudando tecnologia todos os dias de sua vida, independente de estar empregado ou se candidatando .
 
-## 🐣🐥 - Saiba se cobrar ( não se compare com ninguém )
+## 🐣🐥 - Estude COMO SE CANDIDATAR
+* Dedique um tempo do seu dia para esse assunto, busque sobre como melhorar seu linkedin, seu github, como fazer um CV bom, portais de vagas.
+* Assim como você se arruma para ir a uma entrevista de emprego, você vai se "web-arrumar" ( kkkkk ) para se candidatar as vagas, arrumar seu linkedin de uma maneira correta, deixar seu CV bonitão, seu github com bons projetos com read.me explicativos . Só aqui você já vai sair na frente de muita gente .
+* Estudar somente tech não basta, você precisa estudar a como se mostrar ao mundo e se candidatar para vagas .
+* Saber se candidatar é se conectar com pessoas, chegar nas vagas corretas .
+
+## 🐣🐥 - Saiba se cobrar ( e não se compare com ninguém )
 * Eu tive o privilégio de começar a estudar tech bem cedo, na casa dos meus pais, não tinha ninguém que dependia de mim, sem filhos e família para sustentar, sem conta pra pagar. Eu literalmente só estudava o dia todo. Faculdade e depois varava a noite/madrugada fazendo projetos de estudos e freelas para aprender. 
-* Mas entenda que CADA UM TEM SEU PERFIL e disponibilidade para aprender. Você pode ter diversas responsabilidades que um menino de 17 anos ( em tese ) não tem, mas saiba olhar para onde você está e quer chegar. Saiba também se cobrar perante ao seu contexto de vida. Não se cobre estudar 10h por dia sendo que você tem outras responsabilidades, organize seus estudos e tenha constância que você vai cheagar onde quiser !
-* Não se compare com nenhuma pessoa, cada um sabe da sua vida e esforço. Mas o importante é estudar com constancia, nem que essa constancia seja 1 hora no dia.  
+* Mas entenda que CADA UM TEM SEU PERFIL e disponibilidade para aprender, isso independe de IDADE ( nunca é tarde d+ !!!! ). Você pode ter diversas responsabilidades que um menino de 17 anos ( em tese ) não tem, mas saiba olhar para onde você está e quer chegar. Saiba também se cobrar perante ao seu contexto de vida. Não se cobre estudar 10h por dia sendo que você tem outras responsabilidades, organize seus estudos e tenha constância que você vai cheagar onde quiser !
+* Não se compare com nenhuma pessoa, cada um sabe da sua vida e esforço. Mas o importante é estudar com constância, nem que seja 1 hora por dia.  
 * "Fulano conseguiu a vaga em 6 meses e ta ganhando 5 mil reais, eu já estou há 8 meses e ainda não consegui" - pare com esse pensamento, isso só vai te atrapalhar na maioria das vezes.
-
-## Converse, tire suas dúvidas, faça parte de comunidades :  
-* [ Discord ](https://discord.com/) é a melhor ferramenta pra trocar ideias com outros devs diretamente, se não conhece, pesquise [ como utiliza-lo ](https://discord.com/)  e se conecte com milhares de devs para tirar suas dúvidas e bater um papo :
-  * :link: [ CollabCode ](https://discord.gg/EFdpWdnE)
-  * :link: [ Codelândia ](https://discord.gg/wNCWTVuxyz)
-  * :link: [ TechPeopleBR ](https://discord.gg/E2smEqcF)
-  * :link: [ Ballerini ](https://discord.gg/ballerini)
-  * :link: [ He4rt Developers ](https://discord.gg/2bRtvBQ2)
-  * :link: [ Montano ](https://discord.gg/7xkpCMjH)
 
 
 
