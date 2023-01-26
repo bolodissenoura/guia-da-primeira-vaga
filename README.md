@@ -49,8 +49,9 @@
 
 |  Assunto | Link ( Pessoa Autora )  |
 | ------------ | ------------ |
-|  Linkedin |  [Qual é a importância do LinkedIn 🧶](https://twitter.com/recruiteron_/status/1575470131358179329 "Qual é a importância do LinkedIn 🧶") - [Graus de conexão no LinkedIn 🧶](https://twitter.com/recruiteron_/status/1580621253953871872 "graus de conexão no LinkedIn")  |  |
-
+|  Linkedin |  [Qual é a importância do LinkedIn 🧶](https://twitter.com/recruiteron_/status/1575470131358179329 "Qual é a importância do LinkedIn 🧶") - [Graus de conexão no LinkedIn 🧶](https://twitter.com/recruiteron_/status/1580621253953871872 "graus de conexão no LinkedIn")  |  
+| Curriculum vitæ ( CV ) | [Como montar um CV 🧶](https://twitter.com/recruiteron_/status/1571552234961346563 "Como montar um CV 🧶") - [Como NÃO montar um CV 🧶](https://twitter.com/recruiteron_/status/1572914144957046784 "Como NÃO montar um CV 🧶")  |
+| Dicas Gerais | [Como abordar um tech recruiter](https://twitter.com/techrecruiterb/status/1603131787659677696 "Como abordar um tech recruiter") - [Dicas Gerais de uma Tech Recruiter](https://twitter.com/recruiteron_/status/1576923445643776002 "Dicas Gerais de uma Tech Recruiter") - [Uma visão sobre a gupy](https://twitter.com/procurasedevs/status/1610350962602045440 "Uma visão sobre a gupy") - [Abordar Tech Recruiter 🧶](https://twitter.com/techrecruiterb/status/1608515887216357378 "Abordar Tech Recruiter 🧶") |
 
 ## 🐣🐥 - Saiba se cobrar ( e não se compare com ninguém )
 * Eu tive o privilégio de começar a estudar tech bem cedo, na casa dos meus pais, não tinha ninguém que dependia de mim, sem filhos e família para sustentar, sem conta pra pagar. Eu literalmente só estudava o dia todo. Faculdade e depois varava a noite/madrugada fazendo projetos de estudos e freelas para aprender. 
