@@ -47,7 +47,7 @@
 * Estudar somente tech não basta, você precisa estudar a como se mostrar ao mundo e se candidatar para vagas .
 * Saber se candidatar é se conectar com pessoas, chegar nas vagas corretas .
 
-|  Assunto | Link ( Pessoa Autora )  |
+|  Assunto | Link  |
 | ------------ | ------------ |
 |  Linkedin |  [Qual é a importância do LinkedIn 🧶](https://twitter.com/recruiteron_/status/1575470131358179329 "Qual é a importância do LinkedIn 🧶") - [Graus de conexão no LinkedIn 🧶](https://twitter.com/recruiteron_/status/1580621253953871872 "graus de conexão no LinkedIn")  |  
 | Curriculum vitæ ( CV ) | [Como montar um CV 🧶](https://twitter.com/recruiteron_/status/1571552234961346563 "Como montar um CV 🧶") - [Como NÃO montar um CV 🧶](https://twitter.com/recruiteron_/status/1572914144957046784 "Como NÃO montar um CV 🧶")  |
