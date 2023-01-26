@@ -47,6 +47,11 @@
 * Estudar somente tech não basta, você precisa estudar a como se mostrar ao mundo e se candidatar para vagas .
 * Saber se candidatar é se conectar com pessoas, chegar nas vagas corretas .
 
+|  Assunto | Link ( Pessoa Autora )  |
+| ------------ | ------------ |
+|  Linkedin |  [Qual é a importância do LinkedIn 🧶](https://twitter.com/recruiteron_/status/1575470131358179329 "Qual é a importância do LinkedIn 🧶") - [Graus de conexão no LinkedIn 🧶](https://twitter.com/recruiteron_/status/1580621253953871872 "graus de conexão no LinkedIn")  |  |
+
+
 ## 🐣🐥 - Saiba se cobrar ( e não se compare com ninguém )
 * Eu tive o privilégio de começar a estudar tech bem cedo, na casa dos meus pais, não tinha ninguém que dependia de mim, sem filhos e família para sustentar, sem conta pra pagar. Eu literalmente só estudava o dia todo. Faculdade e depois varava a noite/madrugada fazendo projetos de estudos e freelas para aprender. 
 * Mas entenda que CADA UM TEM SEU PERFIL e disponibilidade para aprender, isso independe de IDADE ( nunca é tarde d+ !!!! ). Você pode ter diversas responsabilidades que um menino de 17 anos ( em tese ) não tem, mas saiba olhar para onde você está e quer chegar. Saiba também se cobrar perante ao seu contexto de vida. Não se cobre estudar 10h por dia sendo que você tem outras responsabilidades, organize seus estudos e tenha constância que você vai cheagar onde quiser !
