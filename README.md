@@ -34,7 +34,7 @@
 
 | Roadmaps  |  Cursos Gratuitos | Comunidades Discord
 | ------------ | ------------ | ------------
-| [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |   [ CollabCode ](https://discord.com/invite/FP5UaAG) - [ Codelândia ](https://discord.com/invite/QevDJqCzaY) - [ TechPeopleBR ](https://discord.gg/E2smEqcF) - [ Ballerini ](https://discord.gg/ballerini) - [ He4rt Developers ](https://discord.gg/he4rt) - [ Montano ](http://bitly.com/montano-server)
+| [Trilha Info, um roadmap brasileiro](https://trilha.info "Trilha Info, um roadmap brasileiro") - [Dev Roadmap ( em ingles )](https://roadmap.sh)   |  [ MarcoBrunoDev ](https://www.youtube.com/c/MarcoBrunoDev/playlists) - [+500 cursos gratuitos](https://github.com/iuricode/recursos-gratuitos "+500 cursos gratuitos") - [ Curso em vídeo - Guanabara ](https://www.youtube.com/@CursoemVideo/playlists)  |   [ CollabCode ](https://discord.com/invite/FP5UaAG) - [ Codelândia ](https://discord.com/invite/QevDJqCzaY) - [ TechPeopleBR ](https://discord.gg/E2smEqcF) - [ Ballerini ](https://discord.gg/ballerini) - [ He4rt Developers ](https://discord.gg/he4rt) - [ Montano ](http://bitly.com/montano-server)
 
 ## 🥚🐣🐥 - Não pare de estudar em nenhum momento
 * Estudar tech é algo que tem um começo, mas não tem fim. Você pode estudar pro resto da sua carreira . 
