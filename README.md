@@ -2,7 +2,7 @@
 <p align="center">Esse guia não é uma estrada definitiva, cada caminhada de cada pessoa é diferente .  </p>
 <p align="center">Esse guia é uma caixa de ferramentas e dicas que eu queria ter acesso quando estava na busca da minha primeira oportunidade, espero que te ajude !   </p>
 <p align="center">Ficou parecendo papo de coach, mas prometo que não é. Questione cada tópico em SEU CONTEXTO de vida.</p>
-<p align="center">Se já é mais experiente e quer contribuir de alguma forma com esse guia, abra uma issue ou me chame na dm do twitter  </p>
+<p align="center">Se já é mais experiente e quer contribuir de alguma forma com esse guia, abra uma pr / issue ou me chame na dm do twitter  </p>
  <p align="center"> https://twitter.com/daniellimae </p>
 
 
